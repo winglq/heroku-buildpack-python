@@ -12,7 +12,8 @@ cat <<EOF
 config_vars:
 
 EOF
-
+echo $MANAGE_FILE
+echo running  :)
 
 if [[ $MANAGE_FILE ]]; then
 cat <<EOF
