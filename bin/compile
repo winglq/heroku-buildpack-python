@@ -21,7 +21,7 @@ CACHED_DIRS=".heroku"
 
 
 echo "-----------------------------------"
-echo "BUILD_DIR: " $BUILD_FIR
+echo "BUILD_DIR: " $BUILD_DIR
 echo "CACHE_DIR: " $CACHE_DIR
 echo
 echo "Python?: " `which python`
